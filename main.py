@@ -29,8 +29,11 @@ def draw_line(screen, line_color, start_point, end_point, width):
 
 
 def main():
+
     screen = init_game()
     clock = pygame.time.Clock() # Initialize the clock here
+
+
     running = True
     while running:
         running = handle_events()
@@ -62,6 +65,14 @@ def main():
 
 
 
+        
+        
+        
+        
+        
+        
+        
+        
         pygame.display.flip()
 
             # Limit the frame rate to the specifiied frames per second (FPS) 
