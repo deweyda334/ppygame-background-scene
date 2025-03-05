@@ -13,7 +13,7 @@ WINDOW_HEIGHT = 600
 
 # Window title (caption)
 # Update the window title as needed
-TITLE = "My Pygame Template 2.0"
+TITLE = "Pygame Background"
 
 # Frame rate (frames per second)
-FPS = 19000
+FPS = 60
